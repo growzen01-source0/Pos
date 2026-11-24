@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FlamePOS</string>
+    <string name="tab_pos">POS</string>
+    <string name="tab_edit_menu">Edit Menu</string>
+    <string name="tab_sales">Sales</string>
+    <string name="lock_register">Lock Register</string>
+    <string name="settings">Settings</string>
+    <string name="currency_prefix">Rs.</string>
+    <string name="default_shop_name">FlamePOS Fast Food</string>
+    <string name="default_receipt_footer">Thank you for dining with us!</string>
+</resources>

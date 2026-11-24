@@ -1,0 +1,6 @@
+{
+  "name": "FlamePOS",
+  "description": "Fast-food Point of Sale app in PKR with PIN login, pre-loaded menu, cart checkout, menu editor, and daily sales history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
