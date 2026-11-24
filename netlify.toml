@@ -1,0 +1,11 @@
+# This repository contains the FlamePOS Android app (Gradle/Kotlin).
+# Android apps can't be served by a website, so Netlify publishes the
+# static landing page in /web instead. No build step is needed.
+[build]
+  publish = "web"
+  command = ""
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
